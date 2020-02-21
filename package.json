@@ -1,5 +1,5 @@
 {
-  "name": "licensetest",
+  "name": "mit-license-test",
   "version": "0.0.1-dev",
   "main": "index.js",
   "license": "MIT"
